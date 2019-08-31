@@ -26,3 +26,6 @@ grouped by on averages of each variable for each activity.
 The new generated dataset contained variables calculated based on the mean and standard deviation. Each row of the dataset is an average of each activity type for all subjects.
 The code was written based on the instruction of this assignment
 
+## Script list
+The Codebook.md will contain the variable list description and cleaning activities undertake.
+The run_analysis.R contains the code used to generate the tidy data
